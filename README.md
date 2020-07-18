@@ -15,6 +15,11 @@ Hi, I'm Kevin--a software engineer on the Delivery and Distribution team at Insi
 - My bootcamp experience 
 - Tips for lifting 💪
 
+<p align="center">
+	<a href="https://www.linkedin.com/in/kevin-lin-b1a126111/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://medium.com/@kevinlin_71519"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a>
+</p>
+
 <!--
 **klin4744/klin4744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
