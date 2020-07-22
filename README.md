@@ -5,8 +5,8 @@ Hi, I'm Kevin--a software engineer on the Delivery and Distribution team at Insi
 - [ ] Finish reading these Golang textbooks I have sitting around
 - [ ] Learn how to sing decently
 - [x] Build a production-ready application
-- [ ] Learn about github actions to automate testing 
-- [ ] Learn how to use minikube 
+- [x] Learn about github actions to automate testing 
+- [x] Learn how to use minikube 
 - [x] Hit a 1k total 
 
 ### Ask me about 💬
